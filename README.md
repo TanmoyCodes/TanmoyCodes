@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="tanmoycodes's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # 💫 About Me:
 🔭 I’m currently working on Advanced Java projects & AI/ML models<br>👯 I’m looking to collaborate on Web development, AI/ML, and Java-based software<br>🤝 I’m looking for help with building scalable backends & deployment pipelines<br>🌱 I’m currently learning Machine Learning, Spring Framework, and System Design<br>💬 Ask me about C++, Java, Web Development, AI/ML fundamentals, DBMS, and basic Android<br>⚡ Fun fact Learning new tech is easier when you break it first 😄
 
